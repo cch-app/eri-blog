@@ -1,0 +1,1 @@
+import"./hoisted.BLL7uey7.js";document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".expandable-answer-btn").forEach(e=>{e.addEventListener("click",()=>{const t=e.nextElementSibling,n=e.querySelector(".expandable-answer-icon");t&&n&&(t.classList.toggle("hidden"),n.style.transform=t.classList.contains("hidden")?"rotate(0deg)":"rotate(90deg)")})})});
