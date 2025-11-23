@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e0ebff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c2d7ff;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="200" height="200" fill="url(#grad)"/>
-  <circle cx="100" cy="75" r="35" fill="#477bff" opacity="0.2"/>
-  <path d="M 50 130 Q 50 110 100 110 Q 150 110 150 130 L 150 200 L 50 200 Z" fill="#477bff" opacity="0.2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e0ebff;stop-opacity:1"/><stop offset="100%" style="stop-color:#c2d7ff;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h200v200H0z"/><circle cx="100" cy="75" r="35" fill="#477bff" opacity=".2"/><path fill="#477bff" d="M50 130q0-20 50-20t50 20v70H50Z" opacity=".2"/></svg>
